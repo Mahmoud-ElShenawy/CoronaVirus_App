@@ -5,6 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:charts_flutter/flutter.dart' as Charts;
 import 'package:coronavirus_app/style/theme.dart' as Theme;
 
+// Created By Mahmoud El Shenawy (Email : Mr.Mahmoud.El.Shenawy@Gmail.com)
+
 RegExp _reg = new RegExp(r"(\d{1,3})(?=(\d{3})+(?!\d))");
 Function _mathFunc = (Match match) => '${match[1]}.';
 
