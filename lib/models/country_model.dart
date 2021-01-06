@@ -1,3 +1,5 @@
+// Created By Mahmoud El Shenawy (Email : Mr.Mahmoud.El.Shenawy@Gmail.com)
+
 class CountryModel {
   final String country;
   final String slug;
