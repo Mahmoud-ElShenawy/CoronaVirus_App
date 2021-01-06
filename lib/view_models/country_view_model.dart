@@ -3,6 +3,8 @@ import 'package:coronavirus_app/models/country_summary_model.dart';
 import 'package:coronavirus_app/services/coronavirus_api.dart';
 import 'package:flutter/foundation.dart';
 
+// Created By Mahmoud El Shenawy (Email : Mr.Mahmoud.El.Shenawy@Gmail.com)
+
 class CountryViewModel extends ChangeNotifier {
   List<CountryModel> _countryList = [];
   List<CountrySummaryModel> _countrySummaryList = [];
