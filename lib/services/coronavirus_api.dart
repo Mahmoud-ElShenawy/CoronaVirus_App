@@ -5,6 +5,8 @@ import 'package:coronavirus_app/services/constants.dart' as Constants;
 import 'dart:convert';
 import 'package:coronavirus_app/models/global_summary_model.dart';
 
+// Created By Mahmoud El Shenawy (Email : Mr.Mahmoud.El.Shenawy@Gmail.com)
+
 class CoronaVirusApi {
   Future<GlobalSummaryModel> getGlobalSummary() async {
     try {
