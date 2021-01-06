@@ -6,6 +6,8 @@ import 'global_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:coronavirus_app/style/theme.dart' as Theme;
 
+// Created By Mahmoud El Shenawy (Email : Mr.Mahmoud.El.Shenawy@Gmail.com)
+
 enum NavigationStatus {
   GLOBAL,
   COUNTRY,
