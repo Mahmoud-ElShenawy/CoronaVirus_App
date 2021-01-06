@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:coronavirus_app/style/theme.dart' as Theme;
 import 'package:shimmer/shimmer.dart';
 
+// Created By Mahmoud El Shenawy (Email : Mr.Mahmoud.El.Shenawy@Gmail.com)
+
 class GlobalLoading extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
