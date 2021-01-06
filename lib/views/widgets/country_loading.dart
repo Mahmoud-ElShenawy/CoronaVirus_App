@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
 import 'package:coronavirus_app/style/theme.dart' as Theme;
 
+// Created By Mahmoud El Shenawy (Email : Mr.Mahmoud.El.Shenawy@Gmail.com)
+
 class CountryLoading extends StatelessWidget {
   final bool inputTextLoading;
 
