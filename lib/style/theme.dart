@@ -25,10 +25,4 @@ class Colors{
   static const Color kGreyPrimary= const Color(0xFF9E9E9E);
   static const Color kBlue600 = const Color(0xFF1E88E5);
   static const Color kBlue300 = const Color(0xFF64B5F6);
-
-
-
-
-
-
 }
