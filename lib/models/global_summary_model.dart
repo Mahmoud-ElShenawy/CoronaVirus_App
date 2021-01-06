@@ -1,3 +1,5 @@
+// Created By Mahmoud El Shenawy (Email : Mr.Mahmoud.El.Shenawy@Gmail.com)
+
 class GlobalSummaryModel {
   final DateTime dateTime;
   final int totalRecovered;
