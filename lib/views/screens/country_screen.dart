@@ -8,6 +8,8 @@ import 'package:flutter_typeahead/flutter_typeahead.dart';
 import 'package:provider/provider.dart';
 import 'package:coronavirus_app/style/theme.dart' as Theme;
 
+// Created By Mahmoud El Shenawy (Email : Mr.Mahmoud.El.Shenawy@Gmail.com)
+
 class CountryScreen extends StatefulWidget {
   @override
   _CountryScreenState createState() => _CountryScreenState();
