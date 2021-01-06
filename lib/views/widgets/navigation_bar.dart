@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:coronavirus_app/style/theme.dart' as Theme;
 
+// Created By Mahmoud El Shenawy (Email : Mr.Mahmoud.El.Shenawy@Gmail.com)
+
 class NavigationBar extends StatelessWidget {
   final String title;
   final bool selected;
